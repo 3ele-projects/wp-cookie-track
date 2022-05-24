@@ -18,3 +18,19 @@ each third question is a lvl
 [ordendergsi_secret lvl=3]  SECRET [/ordendergsi_secret]
 
 [ordendergsi_secret lvl=4]  SECRET [/ordendergsi_secret]
+
+
+== Allg ==
+
+Sollte ein essentieller Cookie sein (DSVGO)
+Cookie ist ein Tag nach dem Setzen gültig.
+
+Klassen der DIV Blöcke ist jeweils secret_{lvl}
+Es wird immer die erstgefundene Klasse ausgeblendet, eingeblendet.
+
+
+== ToDo ==
+
+LIVE tests,
+Logic überschlafen
+Namings
